@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.2"
+    "next": "14.2.3"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -21,7 +21,7 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.2"
+    "eslint-config-next": "14.2.3"
   },
-  "packageManager": "pnpm@9.0.5+sha1.6db99351548f394a1d96aa1de98dec032aef8823"
+  "packageManager": "pnpm@9.0.6+sha1.648f6014eb363abb36618f2ba59282a9eeb3e879"
 }
